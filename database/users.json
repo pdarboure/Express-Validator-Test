@@ -120,5 +120,13 @@
   "password": "",
   "category": "",
   "id": 14
+ },
+ {
+  "first_name": "hola",
+  "last_name": "loco",
+  "email": "como@gmail.com",
+  "password": "andas",
+  "category": "",
+  "id": 15
  }
 ]
